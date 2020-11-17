@@ -1,0 +1,14 @@
+{
+  "name": "WhatsAdd.me",
+  "short_name": "whatsadd.me",
+  "description": "Add number for Whatsapp",
+  "lang": "pt-BR",
+  "start_url": "https://whatsaddme.blogspot.com",
+  "display": "standalone",
+  "theme_color": "#333333",
+  "icons": [
+    {
+      "src": "https://sites.google.com/a/rotec.eng.br/arquivos/home/whatsadd.me_192.png"
+    }
+  ]
+}
